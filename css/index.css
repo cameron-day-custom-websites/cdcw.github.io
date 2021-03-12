@@ -1,0 +1,7 @@
+#hero {
+    background: url("../img/dogs.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
